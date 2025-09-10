@@ -26,7 +26,7 @@ The dashboard helps HR teams make **data-driven decisions** by providing clear a
 ---
 
 ##  Dashboard Preview
-  
+  https://github.com/AmanUllah544/HR_Dashboard_Project/blob/main/Screenshot%202025-09-10%20083116.png
 
 ---
 
