@@ -28,6 +28,7 @@ The dashboard helps HR teams make **data-driven decisions** by providing clear a
 ##  Dashboard Preview
   
   Screenshot 2025-09-10 083036.png
+  Screenshot 2025-09-10 083116.png
 
 ---
 
